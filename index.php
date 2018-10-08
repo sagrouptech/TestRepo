@@ -88,7 +88,7 @@ jQuery(document).ready(function () {
 												<div class="collapse navbar-collapse" id="myNavbar">
 
 													<ul class="nav navbar-nav">
-													     <li class="active"><a href="#">079 8020 8030</a></li>
+													     <li class="active"><a href="#">+44 79 8020 8030</a></li>
 													     <li><a href="#">dealers@promoteauto.com</a></li>
 													 </ul>
 
